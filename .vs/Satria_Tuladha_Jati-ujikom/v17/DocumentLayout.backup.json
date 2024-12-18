@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|d:\\repository clone\\satria_tuladha_jati-ujikom\\assets\\resources\\script\\ammodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\script\\ammodestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\assets\\resources\\script\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\script\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\assets\\resources\\script\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FFD2A8-6E3B-4362-6CC9-5FBCFB1BEBCC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\script\\movementplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmmoDestroy.cs",
+              "DocumentMoniker": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\AmmoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Script\\AmmoDestroy.cs",
+              "ToolTip": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\AmmoDestroy.cs",
+              "RelativeToolTip": "Assets\\Resources\\Script\\AmmoDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:30:27.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\Shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Script\\Shoot.cs",
+              "ToolTip": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\Shoot.cs",
+              "RelativeToolTip": "Assets\\Resources\\Script\\Shoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:28:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovementPlayer.cs",
+              "DocumentMoniker": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\MovementPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Script\\MovementPlayer.cs",
+              "ToolTip": "D:\\Repository Clone\\Satria_Tuladha_Jati-ujikom\\Assets\\Resources\\Script\\MovementPlayer.cs",
+              "RelativeToolTip": "Assets\\Resources\\Script\\MovementPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:27:31.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
